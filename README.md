@@ -9,3 +9,4 @@ Clean and structured code for easy readability and modification.
 Technologies Used
 HTML: For creating the structure of the webpage.
 CSS: For styling and layout, including flexbox.
+https://manyabijania.github.io/Amazon-Clone/
